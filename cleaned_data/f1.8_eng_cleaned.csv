@@ -1,0 +1,19 @@
+﻿class_of_vehicle,no_of_drivers_involved,driver_casualties_killed,driver_casualties_seriously_injured,driver_casualties_slightly_injured,driver_casualties_all,driver_casualty_rate,driver_fatality_rates_per_1_000_drivers_involved
+Motor vehicles: Motor cycle,2801,12,244,2308,2564,91.54,4.28
+Motor vehicles: Private car,11067,3,92,4243,4338,39.2,0.27
+Motor vehicles: Taxi,5265,5,60,2284,2349,44.62,0.95
+Motor vehicles: Public light bus,791,2,7,85,94,11.88,2.53
+Motor vehicles: Public bus,2054,0,10,261,271,13.19,0.0
+Motor vehicles: Light goods vehicle,3248,1,24,1228,1253,38.58,0.31
+Motor vehicles: Medium goods vehicle,810,0,7,120,127,15.68,0.0
+Motor vehicles: Heavy goods vehicle,263,0,4,33,37,14.07,0.0
+Motor vehicles: Private light bus,90,0,0,8,8,8.89,0.0
+Motor vehicles: Tram,47,0,0,6,6,12.77,0.0
+Motor vehicles: Light rail vehicle,4,0,0,0,0,0.0,0.0
+Motor vehicles: Other motor vehicles,174,0,4,40,44,25.29,0.0
+Motor vehicles: All,26614,23,452,10616,11091,41.67,0.86
+Non-Motor vehicles: Bicycle,2129,6,93,1740,1839,86.38,2.82
+Non-Motor vehicles: Handcart,2,0,0,2,2,100.0,0.0
+Non-Motor vehicles: All,2131,6,93,1742,1841,86.39,2.82
+Unknown,63,0,0,3,3,0.0,0.0
+All,28808,29,545,12361,12935,44.9,1.01

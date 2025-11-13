@@ -1,0 +1,21 @@
+﻿type_of_accident_collision,severity,road_surface_condition_wet,road_surface_condition_dry,road_surface_condition_unknown,road_surface_condition_all
+Vehicle/Pedestrian ,Fatal,4,58,0,62
+Vehicle/Pedestrian ,Serious,20,315,1,336
+Vehicle/Pedestrian ,Slight,152,2077,5,2234
+Vehicle/Pedestrian ,All,176,2450,6,2632
+Vehicle/Vehicle ,Fatal,2,19,0,21
+Vehicle/Vehicle ,Serious,31,319,1,351
+Vehicle/Vehicle ,Slight,704,8530,41,9275
+Vehicle/Vehicle ,All,737,8868,42,9647
+Vehicle/Object ,Fatal,1,10,0,11
+Vehicle/Object ,Serious,11,71,0,82
+Vehicle/Object ,Slight,160,784,9,953
+Vehicle/Object ,All,172,865,9,1046
+Vehicle/None,Fatal,0,2,0,2
+Vehicle/None,Serious,27,203,1,231
+Vehicle/None,Slight,348,3271,12,3631
+Vehicle/None,All,375,3476,13,3864
+All types ,Fatal,7,89,0,96
+All types ,Serious,89,908,3,1000
+All types ,Slight,1364,14662,67,16093
+All types ,All,1460,15659,70,17189

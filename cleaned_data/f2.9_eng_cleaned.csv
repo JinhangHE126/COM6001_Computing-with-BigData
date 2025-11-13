@@ -1,0 +1,14 @@
+﻿whether_at_or_near_crossing_control,severity_fatal,severity_serious,severity_slight,severity_all
+On a crossing controlled by Zebra,0,7,100,107
+On a crossing controlled by Traffic signal,27,95,2484,2606
+On a crossing controlled by Police control,0,0,1,1
+On a crossing controlled by Crossing patrol,0,0,0,0
+On a crossing controlled by Cautionary crossing,2,8,148,158
+Not on a crossing control but within 15m of crossing controlled by Zebra,0,1,12,13
+Not on a crossing control but within 15m of crossing controlled by Traffic signal,4,3,62,69
+Not on a crossing control but within 15m of crossing controlled by Police control,0,0,0,0
+Not on a crossing control but within 15m of crossing controlled by Crossing patrol,0,0,0,0
+Not on a crossing control but within 15m of crossing controlled by Cautionary crossing,1,2,9,12
+Not on a crossing control but within 15m of crossing controlled by Footbridge / Subway,1,2,59,62
+No crossing control ,61,882,13218,14161
+All,96,1000,16093,17189

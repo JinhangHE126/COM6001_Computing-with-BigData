@@ -1,0 +1,12 @@
+﻿vehicle_contributory_factor,severity_fatal,severity_serious,severity_slight,severity_all
+Inadequate or no lights,0,0,19,19
+Unidentified vehicle (hit-and-run),0,0,14,14
+Mechanical defect,0,1,12,13
+Defective load : insecure loading,0,2,5,7
+Defective or illegal tyre,0,1,2,3
+Tyre blown out before impact,0,0,2,2
+Defective load : apparent overloading,0,2,0,2
+Excessive overhanging of load,0,0,1,1
+Other vehicle factors,6,12,84,102
+No vehicle factor,126,1462,27057,28645
+All,132,1480,27196,28808

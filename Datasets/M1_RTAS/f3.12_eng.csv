@@ -1,0 +1,15 @@
+Age,Class of motor vehicle: Motor cycle,Class of motor vehicle: Private car,Class of motor vehicle: Taxi,Class of motor vehicle: Public light bus,Class of motor vehicle: Public bus,Class of motor vehicle: Light goods vehicle,Class of motor vehicle: Medium & heavy goods vehicles,Class of motor vehicle: Other motor vehicles,Class of motor vehicle: All motor vehicles
+Under 20,38,25,0,0,0,6,0,0,69
+20 - 24,284,509,26,1,42,86,7,5,960
+25 - 29,450,1229,124,0,97,277,43,9,2229
+30 - 34,471,1599,195,0,110,402,66,20,2863
+35 - 39,393,1570,255,3,129,450,101,20,2921
+40 - 44,352,1495,410,19,228,476,135,33,3148
+45 - 49,277,1259,384,29,276,400,116,28,2769
+50 - 54,225,929,514,55,290,312,138,32,2495
+55 - 59,159,843,769,92,379,311,144,43,2740
+60 - 64,83,696,989,163,305,298,184,43,2761
+65 - 69,38,421,890,188,95,137,86,31,1886
+70 & over,13,312,626,217,24,58,37,22,1309
+Unknown,18,180,83,24,79,35,16,29,464
+All,2801,11067,5265,791,2054,3248,1073,315,26614

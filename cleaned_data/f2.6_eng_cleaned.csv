@@ -1,0 +1,23 @@
+﻿district_council_district,severity_fatal,severity_serious,severity_slight,severity_all
+Hong Kong Island: Central and Western,5,82,731,818
+Hong Kong Island: Wan Chai,3,67,748,818
+Hong Kong Island: Eastern,2,67,637,706
+Hong Kong Island: Southern,3,74,459,536
+Hong Kong Island: All,13,290,2575,2878
+Kowloon: Yau Tsim Mong,5,24,1674,1703
+Kowloon: Sham Shui Po,4,26,899,929
+Kowloon: Kowloon City,6,20,998,1024
+Kowloon: Wong Tai Sin,4,31,616,651
+Kowloon: Kwun Tong,10,69,1203,1282
+Kowloon: All,29,170,5390,5589
+New Territories: Kwai Tsing,12,89,929,1030
+New Territories: Tsuen Wan,3,92,903,998
+New Territories: Tuen Mun,3,28,813,844
+New Territories: Yuen Long,14,41,1483,1538
+New Territories: North,4,29,652,685
+New Territories: Tai Po,5,34,841,880
+New Territories: Sha Tin,5,114,1367,1486
+New Territories: Sai Kung,5,65,662,732
+New Territories: Islands,3,48,478,529
+New Territories: All,54,540,8128,8722
+All,96,1000,16093,17189

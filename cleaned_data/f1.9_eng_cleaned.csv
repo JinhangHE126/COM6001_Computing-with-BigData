@@ -1,0 +1,109 @@
+﻿class_of_vehicle,degree_of_injury,seat_occupied,situation,no_of_passenger_casualties
+Private car,Killed,Front near-side,All,0
+Private car,Seriously injured,Front near-side,All,16
+Private car,Slightly injured,Front near-side,All,1083
+Private car,All,Front near-side,All,1099
+Private car,Killed,Front near-side,With seat belt worn,0
+Private car,Seriously injured,Front near-side,With seat belt worn,16
+Private car,Slightly injured,Front near-side,With seat belt worn,1063
+Private car,All,Front near-side,With seat belt worn,1079
+Private car,Killed,Rear,All,1
+Private car,Seriously injured,Rear,All,29
+Private car,Slightly injured,Rear,All,1408
+Private car,All,Rear,All,1438
+Private car,Killed,Rear,With seat belt worn,1
+Private car,Seriously injured,Rear,With seat belt worn,26
+Private car,Slightly injured,Rear,With seat belt worn,1365
+Private car,All,Rear,With seat belt worn,1392
+Taxi,Killed,Front near-side,All,0
+Taxi,Seriously injured,Front near-side,All,8
+Taxi,Slightly injured,Front near-side,All,75
+Taxi,All,Front near-side,All,83
+Taxi,Killed,Front near-side,With seat belt worn,0
+Taxi,Seriously injured,Front near-side,With seat belt worn,6
+Taxi,Slightly injured,Front near-side,With seat belt worn,73
+Taxi,All,Front near-side,With seat belt worn,79
+Taxi,Killed,Rear,All,2
+Taxi,Seriously injured,Rear,All,34
+Taxi,Slightly injured,Rear,All,992
+Taxi,All,Rear,All,1028
+Taxi,Killed,Rear,With seat belt worn,2
+Taxi,Seriously injured,Rear,With seat belt worn,28
+Taxi,Slightly injured,Rear,With seat belt worn,846
+Taxi,All,Rear,With seat belt worn,876
+Public light bus,Killed,Front near-side,All,0
+Public light bus,Seriously injured,Front near-side,All,1
+Public light bus,Slightly injured,Front near-side,All,14
+Public light bus,All,Front near-side,All,15
+Public light bus,Killed,Front near-side,With seat belt worn,0
+Public light bus,Seriously injured,Front near-side,With seat belt worn,1
+Public light bus,Slightly injured,Front near-side,With seat belt worn,12
+Public light bus,All,Front near-side,With seat belt worn,13
+Public light bus,Killed,Rear,All,0
+Public light bus,Seriously injured,Rear,All,14
+Public light bus,Slightly injured,Rear,All,433
+Public light bus,All,Rear,All,447
+Public light bus,Killed,Rear,With seat belt worn,0
+Public light bus,Seriously injured,Rear,With seat belt worn,12
+Public light bus,Slightly injured,Rear,With seat belt worn,296
+Public light bus,All,Rear,With seat belt worn,308
+Light goods vehicle,Killed,Front near-side,All,0
+Light goods vehicle,Seriously injured,Front near-side,All,4
+Light goods vehicle,Slightly injured,Front near-side,All,218
+Light goods vehicle,All,Front near-side,All,222
+Light goods vehicle,Killed,Front near-side,With seat belt worn,0
+Light goods vehicle,Seriously injured,Front near-side,With seat belt worn,4
+Light goods vehicle,Slightly injured,Front near-side,With seat belt worn,214
+Light goods vehicle,All,Front near-side,With seat belt worn,218
+Light goods vehicle,Killed,Rear,All,1
+Light goods vehicle,Seriously injured,Rear,All,2
+Light goods vehicle,Slightly injured,Rear,All,206
+Light goods vehicle,All,Rear,All,209
+Light goods vehicle,Killed,Rear,With seat belt worn,0
+Light goods vehicle,Seriously injured,Rear,With seat belt worn,1
+Light goods vehicle,Slightly injured,Rear,With seat belt worn,194
+Light goods vehicle,All,Rear,With seat belt worn,195
+Medium & heavy goods vehicles,Killed,Front near-side,All,0
+Medium & heavy goods vehicles,Seriously injured,Front near-side,All,1
+Medium & heavy goods vehicles,Slightly injured,Front near-side,All,24
+Medium & heavy goods vehicles,All,Front near-side,All,25
+Medium & heavy goods vehicles,Killed,Front near-side,With seat belt worn,0
+Medium & heavy goods vehicles,Seriously injured,Front near-side,With seat belt worn,1
+Medium & heavy goods vehicles,Slightly injured,Front near-side,With seat belt worn,24
+Medium & heavy goods vehicles,All,Front near-side,With seat belt worn,25
+Medium & heavy goods vehicles,Killed,Rear,All,0
+Medium & heavy goods vehicles,Seriously injured,Rear,All,0
+Medium & heavy goods vehicles,Slightly injured,Rear,All,16
+Medium & heavy goods vehicles,All,Rear,All,16
+Medium & heavy goods vehicles,Killed,Rear,With seat belt worn,0
+Medium & heavy goods vehicles,Seriously injured,Rear,With seat belt worn,0
+Medium & heavy goods vehicles,Slightly injured,Rear,With seat belt worn,13
+Medium & heavy goods vehicles,All,Rear,With seat belt worn,13
+Public bus,Killed,Front near-side,All,0
+Public bus,Seriously injured,Front near-side,All,0
+Public bus,Slightly injured,Front near-side,All,12
+Public bus,All,Front near-side,All,12
+Public bus,Killed,Rear,All,0
+Public bus,Seriously injured,Rear,All,68
+Public bus,Slightly injured,Rear,All,1458
+Public bus,All,Rear,All,1526
+Public bus,Killed,Rear,Standing,0
+Public bus,Seriously injured,Rear,Standing,38
+Public bus,Slightly injured,Rear,Standing,684
+Public bus,All,Rear,Standing,722
+Motor cycle,Killed,Rear,All,1
+Motor cycle,Seriously injured,Rear,All,11
+Motor cycle,Slightly injured,Rear,All,147
+Motor cycle,All,Rear,All,159
+Motor cycle,Killed,Rear,With crash helmet worn,1
+Motor cycle,Seriously injured,Rear,With crash helmet worn,11
+Motor cycle,Slightly injured,Rear,With crash helmet worn,141
+Motor cycle,All,Rear,With crash helmet worn,153
+All,Killed,Front near-side,All,0
+All,Seriously injured,Front near-side,All,31
+All,Slightly injured,Front near-side,All,1442
+All,All,Front near-side,All,1473
+All,Killed,Rear,All,5
+All,Seriously injured,Rear,All,163
+All,Slightly injured,Rear,All,4749
+All,All,Rear,All,4917

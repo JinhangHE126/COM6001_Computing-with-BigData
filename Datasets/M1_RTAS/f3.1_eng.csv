@@ -1,0 +1,56 @@
+Selected class of motor vehicle,Item,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023
+Motor cycle,Number involved in accident,2222,2281,2328,2355,2280,2386,2678,3003,3376,2910,2801
+Motor cycle,Number licensed (mid-year),40608,43082,46134,49098,51596,54395,56901,61574,69150,73637,74969
+Motor cycle,Annual vehicle-kilometres (millions),295,306,326,339,360,361,392,466,508,488,487
+Motor cycle,"Involvement rate (per 1,000 vehicles)",54.7,52.9,50.5,48.0,44.2,43.9,47.1,48.8,48.8,39.5,37.4
+Motor cycle,Involvement rate (per million vehicle-kilometres),7.53,7.45,7.14,6.95,6.34,6.61,6.83,6.45,6.65,5.96,5.75
+Private car,Number involved in accident,7093,7224,7757,8207,8607,8813,9310,8895,10702,9055,11067
+Private car,Number licensed (mid-year),464595,486168,509207,528849,545753,560158,570239,572211,581863,572418,580376
+Private car,Annual vehicle-kilometres (millions),5262,5323,5591,5929,5998,6158,6382,6331,6602,6496,7038
+Private car,"Involvement rate (per 1,000 vehicles)",15.3,14.9,15.2,15.5,15.8,15.7,16.3,15.5,18.4,15.8,19.1
+Private car,Involvement rate (per million vehicle-kilometres),1.35,1.36,1.39,1.38,1.43,1.43,1.46,1.41,1.62,1.39,1.57
+Taxi,Number involved in accident,4395,4211,4332,4493,4359,4436,4810,3857,4637,4042,5265
+Taxi,Number licensed (mid-year),18114,18084,18040,18156,18144,18144,18131,18067,18032,17969,17837
+Taxi,Annual vehicle-kilometres (millions),2475,2466,2534,2564,2472,2535,2462,2114,2325,2357,2444
+Taxi,"Involvement rate (per 1,000 vehicles)",242.6,232.9,240.1,247.5,240.2,244.5,265.3,213.5,257.2,224.9,295.2
+Taxi,Involvement rate (per million vehicle-kilometres),1.78,1.71,1.71,1.75,1.76,1.75,1.95,1.82,1.99,1.71,2.15
+Public light bus,Number involved in accident,1128,1085,1105,1080,1010,958,922,669,759,673,791
+Public light bus,Number licensed (mid-year),4348,4341,4347,4343,4343,4327,4328,4305,4235,4151,4122
+Public light bus,Annual vehicle-kilometres (millions),399,415,423,420,395,382,369,327,328,299,318
+Public light bus,"Involvement rate (per 1,000 vehicles)",259.4,249.9,254.2,248.7,232.6,221.4,213.0,155.4,179.2,162.1,191.9
+Public light bus,Involvement rate (per million vehicle-kilometres),2.83,2.61,2.61,2.57,2.56,2.51,2.50,2.04,2.32,2.25,2.49
+Public bus,Number involved in accident,2847,2850,2762,2722,2726,2799,2633,1720,1888,1585,2054
+Public bus,Number licensed (mid-year),12701,12790,12785,12772,12941,13076,13271,13200,12648,12256,12356
+Public bus,Annual vehicle-kilometres (millions),833,809,793,802,794,814,776,618,648,677,778
+Public bus,"Involvement rate (per 1,000 vehicles)",224.2,222.8,216.0,213.1,210.6,214.1,198.4,130.3,149.3,129.3,166.2
+Public bus,Involvement rate (per million vehicle-kilometres),3.42,3.52,3.48,3.39,3.43,3.44,3.39,2.78,2.91,2.34,2.64
+Light goods vehicle,Number involved in accident,2706,2621,2708,2947,2790,2896,3086,2709,3316,2956,3248
+Light goods vehicle,Number licensed (mid-year),72694,72465,71092,70673,70832,71822,72525,73293,74879,75855,75551
+Light goods vehicle,Annual vehicle-kilometres (millions),2199,2199,2256,2285,2273,2374,2331,2281,2420,2466,2390
+Light goods vehicle,"Involvement rate (per 1,000 vehicles)",37.2,36.2,38.1,41.7,39.4,40.3,42.6,37.0,44.3,39.0,43.0
+Light goods vehicle,Involvement rate (per million vehicle-kilometres),1.23,1.19,1.20,1.29,1.23,1.22,1.32,1.19,1.37,1.20,1.36
+Medium & heavy goods vehicles,Number involved in accident,1085,1125,1063,1167,1162,1083,1093,1008,1204,1048,1073
+Medium & heavy goods vehicles,Number licensed (mid-year),41688,41886,41875,41818,42346,42851,42657,42150,41721,40954,40817
+Medium & heavy goods vehicles,Annual vehicle-kilometres (millions),1252,1204,1236,1219,1238,1203,1156,1105,1179,1105,1065
+Medium & heavy goods vehicles,"Involvement rate (per 1,000 vehicles)",26.0,26.9,25.4,27.9,27.4,25.3,25.6,23.9,28.9,25.6,26.3
+Medium & heavy goods vehicles,Involvement rate (per million vehicle-kilometres),0.87,0.93,0.86,0.96,0.94,0.90,0.95,0.91,1.02,0.95,1.01
+Private light bus,Number involved in accident,96,113,103,101,96,86,102,47,91,70,90
+Private light bus,Number licensed (mid-year),2563,2851,3034,3075,3089,3166,3379,3485,3506,3475,3415
+Private light bus,Annual vehicle-kilometres (millions),120,123,129,135,135,136,143,102,133,132,141
+Private light bus,"Involvement rate (per 1,000 vehicles)",37.5,39.6,33.9,32.8,31.1,27.2,30.2,13.5,26.0,20.1,26.4
+Private light bus,Involvement rate (per million vehicle-kilometres),0.80,0.92,0.80,0.75,0.71,0.63,0.71,0.46,0.68,0.53,0.64
+Tram,Number involved in accident,59,43,38,50,60,49,40,32,61,39,47
+Tram,Number licensed (mid-year),161,161,161,161,161,161,161,161,161,161,161
+Tram,Annual vehicle-kilometres (millions),5,5,5,5,5,5,4,5,4,4,4
+Tram,"Involvement rate (per 1,000 vehicles)",366.5,267.1,236.0,310.6,372.7,304.3,248.4,198.8,378.9,242.2,291.9
+Tram,Involvement rate (per million vehicle-kilometres),11.35,9.07,7.71,10.11,12.73,10.89,9.41,7.08,13.57,9.40,11.18
+Light rail vehicle,Number involved in accident,21,17,11,13,10,10,6,3,5,6,4
+Light rail vehicle,Number licensed (mid-year),139,138,138,138,139,139,139,139,142,145,147
+Light rail vehicle,Annual vehicle-kilometres (millions),8,8,8,8,8,8,7,7,7,7,7
+Light rail vehicle,"Involvement rate (per 1,000 vehicles)",151.1,123.2,79.7,94.2,71.9,71.9,43.2,21.6,35.2,41.4,27.2
+Light rail vehicle,Involvement rate (per million vehicle-kilometres),2.72,2.18,1.38,1.61,1.24,1.24,0.83,0.41,0.71,0.90,0.59
+All motor vehicles,Number involved in accident,21833,21729,22361,23291,23212,23661,24822,22063,26190,22499,26614
+All motor vehicles,Number licensed (mid-year),665643,690052,714927,737312,757705,776729,790336,797262,815203,810413,819129
+All motor vehicles,Annual vehicle-kilometres (millions),12836,12844,13288,13692,13665,13962,14011,13344,14143,14018,14662
+All motor vehicles,"Involvement rate (per 1,000 vehicles)",32.8,31.5,31.3,31.6,30.6,30.5,31.4,27.7,32.1,27.8,32.5
+All motor vehicles,Involvement rate (per million vehicle-kilometres),1.70,1.69,1.68,1.70,1.70,1.69,1.77,1.65,1.85,1.61,1.82

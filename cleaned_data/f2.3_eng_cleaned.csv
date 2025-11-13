@@ -1,0 +1,21 @@
+﻿type_of_accident_collision,severity,no_of_casualties_involved_1,no_of_casualties_involved_2,no_of_casualties_involved_3,no_of_casualties_involved_4,no_of_casualties_involved_5,no_of_casualties_involved_over_5,no_of_casualties_involved_all
+Vehicle/Pedestrian,Fatal,62,0,0,0,0,0,62
+Vehicle/Pedestrian,Serious,308,17,7,2,1,1,336
+Vehicle/Pedestrian,Slight,2131,95,4,3,1,0,2234
+Vehicle/Pedestrian,All,2501,112,11,5,2,1,2632
+Vehicle/Vehicle,Fatal,13,4,1,0,2,1,21
+Vehicle/Vehicle,Serious,219,68,35,10,11,8,351
+Vehicle/Vehicle,Slight,7167,1441,397,146,66,58,9275
+Vehicle/Vehicle,All,7399,1513,433,156,79,67,9647
+Vehicle/Object,Fatal,5,5,0,0,1,0,11
+Vehicle/Object,Serious,61,9,4,4,1,3,82
+Vehicle/Object,Slight,681,114,59,61,30,8,953
+Vehicle/Object,All,747,128,63,65,32,11,1046
+Vehicle/None,Fatal,2,0,0,0,0,0,2
+Vehicle/None,Serious,217,10,3,0,0,1,231
+Vehicle/None,Slight,3386,164,33,31,13,4,3631
+Vehicle/None,All,3605,174,36,31,13,5,3864
+All types,Fatal,82,9,1,0,3,1,96
+All types,Serious,805,104,49,16,13,13,1000
+All types,Slight,13365,1814,493,241,110,70,16093
+All types,All,14252,1927,543,257,126,84,17189

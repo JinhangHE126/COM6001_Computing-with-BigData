@@ -1,0 +1,19 @@
+Figure 2.9 Road traffic accidents by whether at or near crossing control and severity 2019,,,,
+Last updated on 28.10.2020,,,,
+,,,,
+,,,,
+Whether at or near crossing control,Severity: Fatal,Severity: Serious,Severity: Slight,Severity: All
+On a crossing controlled by Zebra,1,25,87,113
+On a crossing controlled by Traffic signal,21,276,2695,2992
+On a crossing controlled by Police control,0,0,0,0
+On a crossing controlled by Crossing patrol,0,1,1,2
+On a crossing controlled by Cautionary crossing,3,14,184,201
+Not on a crossing control but within 15m of crossing controlled by Zebra,0,3,17,20
+Not on a crossing control but within 15m of crossing controlled by Traffic signal,1,10,92,103
+Not on a crossing control but within 15m of crossing controlled by Police control,0,0,0,0
+Not on a crossing control but within 15m of crossing controlled by Crossing patrol,0,0,0,0
+Not on a crossing control but within 15m of crossing controlled by Cautionary crossing,0,3,17,20
+Not on a crossing control but within 15m of crossing controlled by Footbridge / Subway,1,7,137,145
+Not on a crossing control but within 15m of crossing controlled by Unknown,0,0,0,0
+No crossing control ,80,1492,10934,12506
+All,107,1831,14164,16102

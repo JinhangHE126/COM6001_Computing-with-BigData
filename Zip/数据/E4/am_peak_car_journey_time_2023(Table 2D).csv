@@ -1,0 +1,83 @@
+,,,,,Table 2D,,,,,,,,,,,,
+A.M. Peak Car Journey Time (Cross-Region Routes) 2023,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+Origin - Destination,Start,Via,Finish,"Distance
+(km)","Journey Time
+(minutes)",,,,,,,,,,,,
+Central - Ho Man Tin (via XHT),"Connaught Road C J/W
+Pedder Street",Connaught Road C - Harcourt Road - Gloucester Road - XHT-Hong Chong Road - Princess Margaret Road,"Princess Margaret Road
+J/W Sheung Hing Street",6.8,15.6,,,,,,,,,,,,
+Ho Man Tin - Central (via XHT),"Princess Margaret Road
+J/W Sheung Hing Street",- Vice Versa -,"Connaught Road C J/W
+Pedder Street",6.8,15.5,,,,,,,,,,,,
+Kennedy Town - Tai Kok Tsui (via Western Harbour Crossing (WHC)),"Cadogan Street J/W
+Catchick Street",Kennedy Town New Praya - Shing Sai Road - Connaught Road FO - WHC - West Kowloon Highway,"West Kowloon Highway
+Outside Olympic MTR Station / Cherry Street",6.2,7.4,,,,,,,,,,,,
+Tai Kok Tsui - Kennedy Town (via WHC),"West Kowloon Highway Outside Olympic MTR
+Station / Cherry Street",- Vice Versa -,Sand Street J/W Catchick Street,5.8,8.6,,,,,,,,,,,,
+Ho Man Tin - Wan Chai (via XHT),"Princess Margaret Road
+J/W Sheung Hing Street",Princess Margaret Road - Hong Chong Road - XHT -Gloucester Road,"Gloucester Road J/W
+Arsenal Street",5.6,13.9,,,,,,,,,,,,
+Wan Chai - Ho Man Tin (via XHT),"Gloucester Road J/W
+Arsenal Street",- Vice Versa -,"Princess Margaret Road
+J/W Sheung Hing Street",5.6,13.8,,,,,,,,,,,,
+Ho Man Tin - Tin Hau (via XHT),"Princess Margaret Road
+J/W Sheung Hing Street",Princess Margaret Road - Hong Chong Road - XHT - Victoria Park Road,"Victoria Park Road at
+diverging point to IEC",4.8,12.3,,,,,,,,,,,,
+Tin Hau - Ho Man Tin (via XHT),"Victoria Park Road at
+merging point with Tsing Fung Street",Victoria Road Road - Gloucester Road - XHT - Hong Chong Road - Princess Margaret Road,Princess Margaret Road J/W Sheung Hing Street,5.5,15.8,,,,,,,,,,,,
+Jordan - Tsing Yi,"Ferry Street J/W Jordan
+Road",West Kowloon Highway - Tsing Kwai Highway,"Cheung Tsing Tunnel East
+Portal",8.7,7.6,,,,,,,,,,,,
+Tsing Yi - Jordan,"Cheung Tsing Tunnel East
+Portal",- Vice Versa -,"Ferry Street J/W Jordan
+Road",8.8,12.3,,,,,,,,,,,,
+Kwun Tong - Taikoo Shing(via EHC),"Kwun Tong Road J/W Hip
+Wo Street",Kwun Tong Road - Lei Yue Mun Road - access Road to EHC -EHC - IEC - Tai On Street - Shan Kei Wan Road,"Shau Kei Wan Road J/W
+Taikoo Shing Road",6.4,14.0,,,,,,,,,,,,
+Taikoo Shing - Kwun Tong (via EHC),"Shau Kei Wan Road J/W
+Taikoo Shing Road",Shau Kei Wan Road - Tai Hong Street - IEC - EHC - access Road to EHC - Lei Yue Mun Road - Kwun Tong Road,"Kwun Tong Road J/W Hip
+Wo Street",6.2,12.7,,,,,,,,,,,,
+Kwun Tong - Tseung Kwan O, Kwun Tong Bypass/Wai Yip St,Kwun Tong Bypass - Tseung Kwan O Road - Tseung Kwan O (TKO) Tunnel - TKO Tunnel Road - Wan Po Road,"Wan Po Road J/W Chun
+Yat Street",7.9,11.0,,,,,,,,,,,,
+Tseung Kwan O - Kwun Tong,"Wan Po Road J/W Chun
+Yat Street",- Vice Versa -, Kwun Tong Bypass/Wai Yip St,7.9,14.2,,,,,,,,,,,,
+Tsim Sha Tsui - Tsing Yi,"Kowloon Park Drive J/W
+Salisbury Road",Kowloon Park Drive - Canton Road - Jordan Road - Lin Cheung Road - West Kowloon Highway - Tsing Kwai Highway,"Cheung Tsing Tunnel East
+Portal",10.1,10.5,,,,,,,,,,,,
+Tsing Yi - Tsim Sha Tsui,"Cheung Tsing Tunnel East
+Portal",- Vice Versa -,"Kowloon Park Drive J/W
+Salisbury Road",10.2,15.6,,,,,,,,,,,,
+Choi Hung - Sai Kung,"New Clear Water Bay Road J/W Clear Water Bay
+Road (West)",New Clear Water Bay Road - Clear Water Bay Road - Hiram's Highway - Fuk Man Road,Fuk Man Road (Public Transport Terminus),13.0,19.2,,,,,,,,,,,,
+Sai Kung - Choi Hung,Fuk Man Road (Public Transport Terminus),- Vice Versa -,"New Clear Water Bay
+Road J/W Clear Water Bay Road (West)",13.1,21.1,,,,,,,,,,,,
+Kowloon Tong - Sha Tin,Waterloo Road J/W Hereford Road,Waterloo Road - Lion Rock Tunnel - Lion Rock Tunnel Road - Hung Mui Kuk Road - Che Kung Miu Road - Tai Chung Kiu Road - Sha Tin Rural Committee Road - Yuen Wo Road - Tam Kon Po Street - Sha Tin Centre Street,Sha Tin Centre Street near Sha Tin Plaza,8.0,17.3,,,,,,,,,,,,
+Sha Tin - Kowloon Tong,Sha Tin Centre Street near Sha Tin Plaza,Sha Tin Centre Street - Wang Pok Street - Yuen Wo Road - Sha Tin Rural Committee Road - Tai Chung Kiu Road - Che Kung Miu Road - Hung Mui Kuk Road - Lion Rock Tunnel Road- Lion Rock Tunnel - Waterloo Road,Waterloo Road J/W Hereford Road,8.2,21.3,,,,,,,,,,,,
+Lai Chi Kok - Tsuen Wan,"Lai Chi Kok Road near Mei
+Lai Road",Slip Road to Kwai Chung Road - Kwai Chung Road - Tsuen Wan Road - Texaco Road - Sha Tsui Road,"Sha Tsui Road J/W Tai Ho
+Road",5.9,13.0,,,,,,,,,,,,
+Tsuen Wan - Lai Chi Kok,"Sha Tsui Road J/W Tai Ho
+Road",Sha Tsui Road - Texaco Road - Tsuen Wan Road - Kwai Chung Road - Slip Road to Mei Foo,"Lai Chi Kok Road near Mei
+Lai Road",5.6,12.0,,,,,,,,,,,,
+Sham Shui Po (Nam Cheong) (via Route 3) - West Rail -Tuen Mun,"West Kowloon Corridor /
+Nam Cheong Street",West Kowloon Corridor - Lai Chi Kok Road - Kwai Chung Road- Tsuen Wan Road - Tuen Mun Road - Route 3 - Yuen Long Highway - Castle Peak Road - Tuen Mun Road,"Access Road to Castle
+Peak Road - San Hui",31.4,48.1,,,,,,,,,,,,
+Tuen Mun - Sham Shui Po (Nam Cheong) (via Route 3) - West Rail,Tuen Mun Road / Pui To Road,Tuen Mun Road - Castle Peak Road - Route 3 - Castle Peak Road - Tsuen Wan Road - Kwai Fuk Road - Tsuen Wan Road - Kwai Chung Road - Lai Chi Kok Road - West Kowloon Corridor,West Kowloon Corridor / Nam Cheong Street,32.6,48.0,,,,,,,,,,,,
+Hung Mui Kuk INT -Kowloon Tong,"Hung Mui Kuk Road J/W
+Chung Pak Road",Hung Mui Kuk Road - Lion Rock Tunnel Road - Waterloo Road,"Waterloo Road J/W
+Junction Road",4.2,8.7,,,,,,,,,,,,
+Kowloon Tong - Hung Mui Kuk INT,"Waterloo Road J/W
+Junction Road",- Vice Versa -,"Hung Mui Kuk Road J/W
+Chung Pak Road",4.0,5.9,,,,,,,,,,,,
+Ma On Shan - Choi Hung(via Tate's Cairn Tunnel),"Sai Sha Road J/W Ma On
+Shan Road",Sai Sha Road - Ma On Shan Road - Tate's Cairn Highway-Tate's Cairn Tunnel,"Tate’s Cairn Tunnel (south
+portal)",10.7,17.0,,,,,,,,,,,,
+Choi Hung - Ma On Shan(via Tate's Cairn Tunnel),"Tate’s Cairn Tunnel (south
+portal)",- Vice Versa -,"Sai Sha Road J/W Ma On
+Shan Road",10.6,11.1,,,,,,,,,,,,
+Kwun Tong - Tseung Kwan O (via TKO-LT Tunnel),Cha Kwo Ling Road Roundabout,Cha Kwo Ling Road Roundabout - TKO-LT Tunnel - Tseung Lam Highway - Po Shun Road - Tseung Lam Highway - Tseung Lam Highway (Cross Bay Link) - Wan Po Road,Wan Po Road,8.4,10.6,,,,,,,,,,,,
+Tseung Kwan O - Kwun Tong (via TKO-LT Tunnel),Wan Po Road,Wan Po Road - Tseung Lam Highway (Cross Bay Link) - TKO-LT Tunnel - Cha Kwo Ling Road Roundabout,"Cha Kwo Ling Road
+Roundabout",5.0,5.1,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,

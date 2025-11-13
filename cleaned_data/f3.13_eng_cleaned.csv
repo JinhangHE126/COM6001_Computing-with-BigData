@@ -1,0 +1,14 @@
+﻿age,class_of_motor_vehicle_motor_cycle,class_of_motor_vehicle_private_car,class_of_motor_vehicle_taxi,class_of_motor_vehicle_public_light_bus,class_of_motor_vehicle_public_bus,class_of_motor_vehicle_light_goods_vehicle,class_of_motor_vehicle_medium_&_heavy_goods_vehicles,class_of_motor_vehicle_all_motor_vehicles
+Under 20,128.8,8.1,-,-,-,2.7,-,22.1
+20 - 24,60.0,9.4,52.0 ,1.7 ,40.4 ,2.6,4.8 ,17.6
+25 - 29,29.7,7.6,61.1 ,0.0 ,29.5 ,3.1,7.9 ,13.7
+30 - 34,20.9,6.6,50.7 ,0.0 ,20.9 ,3.1,6.8 ,11.7
+35 - 39,13.0,5.6,41.7 ,0.5 ,14.8 ,2.9,6.2 ,10.3
+40 - 44,8.0,4.7,43.4 ,1.6 ,15.0 ,2.6,5.0 ,9.8
+45 - 49,5.4,4.1,32.4 ,1.9 ,14.5 ,2.3,3.8 ,8.9
+50 - 54,4.3,3.1,31.1 ,2.9 ,13.1 ,2.1,3.7 ,8.3
+55 - 59,3.8,3.0,25.2 ,3.5 ,14.6 ,1.8,3.0 ,9.8
+60 - 64,2.6,2.7,20.4 ,4.8 ,10.3 ,1.5,3.1 ,10.6
+65 - 69,1.7,2.4,20.0 ,6.1 ,3.7 ,0.9,1.6 ,10.7
+70 & over,0.8,3.3,19.5 ,9.3 ,1.5 ,0.7,0.8 ,13.9
+All,8.4,4.5,25.6 ,4.6 ,11.9 ,2.2,3.2 ,10.7

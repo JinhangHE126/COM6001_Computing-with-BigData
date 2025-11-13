@@ -1,0 +1,21 @@
+Region,Type of accident collision,Whether at Junction: At Junction,Whether at Junction: Not at Junction,Whether at Junction: All
+Hong Kong Island ,Vehicle/Pedestrian,69,575,644
+Hong Kong Island ,Vehicle/Vehicle,151,1370,1521
+Hong Kong Island ,Vehicle/Object,3,96,99
+Hong Kong Island ,Vehicle/None,48,566,614
+Hong Kong Island ,All,271,2607,2878
+Kowloon ,Vehicle/Pedestrian,393,562,955
+Kowloon ,Vehicle/Vehicle,1289,2128,3417
+Kowloon ,Vehicle/Object,50,186,236
+Kowloon ,Vehicle/None,324,657,981
+Kowloon ,All,2056,3533,5589
+New Territories,Vehicle/Pedestrian,75,958,1033
+New Territories,Vehicle/Vehicle,590,4119,4709
+New Territories,Vehicle/Object,50,661,711
+New Territories,Vehicle/None,144,2125,2269
+New Territories,All,859,7863,8722
+All regions,Vehicle/Pedestrian,537,2095,2632
+All regions,Vehicle/Vehicle,2030,7617,9647
+All regions,Vehicle/Object,103,943,1046
+All regions,Vehicle/None,516,3348,3864
+All regions,All,3186,14003,17189

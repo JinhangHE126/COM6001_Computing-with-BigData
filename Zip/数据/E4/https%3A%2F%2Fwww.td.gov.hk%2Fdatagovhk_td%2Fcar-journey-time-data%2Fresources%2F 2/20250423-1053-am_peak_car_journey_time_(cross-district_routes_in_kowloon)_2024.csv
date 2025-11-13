@@ -1,0 +1,31 @@
+,,,,,Table 2B
+4A.M. Peak Car Journey Time (Cross-District Routes In Kowloon) 2024,,,,,
+,,,,,
+,,,,,
+Origin - Destination,Start,Via,Finish,"Distance
+(km)","Journey Time
+(minutes)"
+Ho Man Tin - Kowloon Tong,Princess Margaret Road J/W Sheung Hing Street,Princess Margaret Road - Waterloo Road Flyover - Waterloo Road,Waterloo Road J/W Junction Road,2.4,8.7
+Kowloon Tong - Ho Man Tin,Waterloo Road J/W Junction Road,- Vice Versa -,Princess Margaret Road J/W Sheung Hing Street,2.4,5.8
+Ho Man Tin - Tsim Sha Tsui(via Chatham Road),Princess Margaret Road J/W Sheung Hing Street,Princess Margaret Road - Chatham Road Flyover - Chatham Road S - Salisbury Road,Salisbury Road J/W Kowloon Park Drive,3.2,10.6
+Tsim Sha Tsui - Ho Man Tin(via Chatham Road),Salisbury Road J/W Kowloon Park Drive,- Vice Versa -,Princess Margaret Road J/W Sheung Hing Street,3.2,6.6
+Ho Man Tin - Tsim Sha Tsui(via Waterloo Road),Argyle Street J/W Waterloo Road,Waterloo Road - Ferry Street - Canton Road - Kowloon Park Drive,Kowloon Park Drive J/W Salisbury Road,3.5,13.3
+Tsim Sha Tsui - Ho Man Tin(via Waterloo Road),Kowloon Park Drive J/W Salisbury Road,- Vice Versa -,Argyle Street J/W Waterloo Road,3.6,13.6
+Hung Hom - West Kowloon (via Hung Hom Bypass),Hung Hom Road J/W Tak Man Street,Hung Hom Road - Hung Hom Bypass - Salisbury Road - Nathan Road - Middle Road - Kowloon Park Drive - Canton Road - Austin Road W,Austin Road W J/W Nga Cheung Road,4.2,7.1
+West Kowloon - Hung Hom(via Hung Hom Bypass),Austin Road W J/W Nga Cheung Road,Austin Road W - Canton Road - Salisbury Road - Hung Hom Bypass - Hung Hom Road,Hung Hom Road J/W Tak Man Street,4.3,11.2
+Hung Hom - West Kowloon(via Chatham Road North),Wuhu Street J/W Ma Tau Wai Road,Wuhu Street - Dock Street - Bulkelly Street - Marsh Street -Wuhu Street - Chatham Road N - Chatham Road S - Austin Road - Austin Road W,Austin Road W J/W Nga Cheung Road,3.4,13.8
+West Kowloon - Hung Hom (via Chatham Road North),Austin Road W J/W Nga Cheung Road,Austin Road W - Austin Road - Chatham Road S - Chatham Road Flyover - Chatham Road S - Chatham Road N - Chatham Road N Bypass - Wuhu Street,Wuhu Street J/W Ma Tau Wai Road,3.7,14.4
+Kwun Tong - Lai Chi Kok,Kwun Tong Road J/W Hip Wo Street,Kwun Tong Road - Lung Cheung Road Flyover - Lung Cheung Road - Ching Cheung Road - Butterfly Valley Road -Lai Chi Kok Road,Lai Chi Kok Road near Mei Lai Road,13.1,22.6
+Lai Chi Kok - Kwun Tong,Lai Chi Kok Road near Mei Lai Road,Lai Chi Kok Road - Castle Peak Road - Ching Cheung Road - Lung Cheung Road - Lung Cheung Road Flyover - Kwun Tong Road,Kwun Tong Road J/W Hip Wo Street,12.4,22.9
+Kwun Tong - Tsim Sha Tsui,Kwun Tong Road J/W Hip Wo Street,Kwun Tong Road - Kai Fuk Road Flyover - Kai Fuk Road - Kai Tak Tunnel - East Kowloon Corridor - Chatham Road N - Hong Chong Road - Salisbury Road,Star Ferry Concourse near Salisbury Road,8.6,17.8
+Tsim Sha Tsui - Kwun Tong,Star Ferry Concourse near Salisbury Road,- Vice Versa -,Kwun Tong Road J/W Hip Wo Street,8.8,14.8
+Lai Chi Kok - Tsim Sha Tsui,Lai Chi Kok Road near Mei Lai Road,Lai Chi Kok Road - Cheung Sha Wan Road - Nathan Road -Salisbury Road,Star Ferry Concourse near Salisbury Road,7.3,23.8
+Tsim Sha Tsui - Lai Chi Kok,Star Ferry Concourse near Salisbury Road,- Vice Versa -,Lai Chi Kok Road near Mei Lai Road,7.2,25.1
+Lai Chi Kok - Tsim Sha Tsui,Tai Po Road J/W Ching Cheung Road,Tai Po Road - Pak Tin Street - Berwick Street - Shek Kip Mei Street - Un Chau Street - Hing Wah Street - Cheung Sha Wan Road - Castle Peak Road - Butterfly Valley Road - Castle Peak Road - Tai Po Road - Cheung Sha Wan Road - Nathan Road,Salisbury Road J/W Nathan Road,12.6,45.1
+Tsim Sha Tsui - Lai Chi Kok,Salisbury Road J/W Nathan Road,Nathan Road - Cheung Sha Wan Road - Tai Po Road,Tai Po Road J/W Ching Cheung Road (under Flyover),5.9,17.5
+Yau Ma Tei - Sau Mau Ping,Jordan Road J/W Ferry Street,Jordan Road - Gascoigne Road - Chatham Road N - Ma Tau Wai Road - Ma Tau Chung Road - Prince Edward Road E - Clear Water Bay Road - New Clear Water Bay Road - Shun Lee Tsuen Road,Shun Lee Tsuen Road J/W Hip Wo Street,9.4,25.1
+Sau Mau Ping - Yau Ma Tei,Shun Lee Tsuen Road J/W Hip Wo Street,- Vice Versa -,Jordan Road J/W Ferry Street,9.5,26.5
+Yau Ma Tei - Mei Foo,Ferry Street J/W Waterloo Road,Ferry Street - Tong Mi Road - Lai Chi Kok Road - Lai Chi Kok Bridge,Lai Chi Kok Bridge near Ching Cheung Road,5.2,14.7
+Mei Foo - Yau Ma Tei,Lai Chi Kok Bridge near Ching Cheung Road,- Vice Versa -,Ferry Street J/W Waterloo Road,5.2,19.2
+Mong Kok - Tsz Wan Shan,Argyle Street J/W Yim Po Fong Street,Argyle Street - Argyle Street Flyover - Prince Edward Road E - Choi Hung Road - Hammer Hill Road - Po Kong Village Road,Po Kong Village Road J/W Tsz Wan Shan Road,6,15.5
+Tsz Wan Shan - Mong Kok,Po Kong Village Road J/W Tsz Wan Shan Road,- Vice Versa -,Argyle Street J/W Yim Po Fong Street,6.1,16.7

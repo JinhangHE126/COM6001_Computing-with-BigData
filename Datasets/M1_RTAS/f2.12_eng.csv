@@ -1,0 +1,30 @@
+Junction type,Junction control type,Severity: Fatal,Severity: Serious,Severity: Slight,Severity: All
+T-junction,signalised,5,18,491,514
+T-junction,non-signalised,8,45,1077,1130
+T-junction,All,13,63,1568,1644
+Cross roads,signalised,2,24,494,520
+Cross roads,non-signalised,8,21,444,473
+Cross roads,All,10,45,938,993
+Roundabout ,signalised,0,0,3,3
+Roundabout ,non-signalised,2,10,325,337
+Roundabout ,All,2,10,328,340
+Y-junction,signalised,1,1,25,27
+Y-junction,non-signalised,0,3,87,90
+Y-junction,All,1,4,112,117
+Slip road,signalised,1,0,4,5
+Slip road,non-signalised,2,3,31,36
+Slip road,All,3,3,35,41
+Multiple,signalised,0,0,1,1
+Multiple,non-signalised,1,0,13,14
+Multiple,All,1,0,14,15
+Staggered ,signalised,0,0,3,3
+Staggered ,non-signalised,0,0,12,12
+Staggered ,All,0,0,15,15
+Vehicular exit/entrance,signalised,0,0,0,0
+Vehicular exit/entrance,non-signalised,0,0,1,1
+Vehicular exit/entrance,All,0,0,1,1
+Others,signalised,0,0,1,1
+Others,non-signalised,1,0,18,19
+Others,All,1,0,19,20
+All junctions,,31,125,3030,3186
+All roads,,96,1000,16093,17189

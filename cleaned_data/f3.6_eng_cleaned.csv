@@ -1,0 +1,20 @@
+﻿manoeuvre,class_of_vehicle_motor_cycle,class_of_vehicle_private_car,class_of_vehicle_taxi,class_of_vehicle_public_light_bus,class_of_vehicle_public_bus,class_of_vehicle_light_goods_vehicle,class_of_vehicle_medium_&_heavy_goods_vehicles,class_of_vehicle_bicycle,class_of_vehicle_others,class_of_vehicle_unknown,class_of_vehicle_all
+Straight ahead (with priority),2002,6767,3269,479,1406,1966,649,1897,183,34,18652
+Changing lanes,94,879,394,53,94,201,84,24,15,7,1845
+Overtaking off-side,24,42,13,7,3,15,6,19,2,2,133
+Overtaking near-side,29,21,5,1,2,5,2,7,0,0,72
+Straight ahead (against priority),135,890,440,43,93,287,96,68,25,8,2085
+Turning right,111,412,207,35,57,160,31,35,8,3,1059
+Turning left,86,199,79,18,30,63,31,8,5,0,519
+Making U-turn,8,57,38,2,2,7,2,1,1,0,118
+Slowing/stopping,226,992,501,65,218,314,57,22,27,1,2423
+Stopped in traffic,41,168,92,10,18,39,12,4,14,0,398
+Starting in traffic,6,103,85,52,88,31,6,2,5,0,378
+Leaving parking place,0,11,1,3,0,6,2,0,0,0,23
+Parked,17,136,29,5,6,51,37,2,19,0,302
+Reversing,4,240,55,12,19,75,42,0,10,0,457
+Driverless moving,1,10,1,1,2,2,0,0,1,0,18
+Ran off road,7,40,25,2,1,8,3,7,0,0,93
+Others,3,19,7,1,2,10,3,13,0,1,59
+Unknown,7,81,24,2,13,8,10,20,2,7,174
+All,2801,11067,5265,791,2054,3248,1073,2129,317,63,28808

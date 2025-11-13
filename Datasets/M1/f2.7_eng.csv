@@ -1,0 +1,25 @@
+"Figure 2.7 Road traffic accidents by type of accident collision, severity and road surface condition 2019",,,,,
+Last updated on 28.10.2020,,,,,
+,,,,,
+,,,,,
+Type of accident collision,Severity,Road surface condition: Wet,Road surface condition: Dry,Road surface condition: Unknown,Road surface condition: All
+Vehicle/Pedestrian ,Fatal,4,52,1,57
+Vehicle/Pedestrian ,Serious,47,522,0,569
+Vehicle/Pedestrian ,Slight,162,1939,10,2111
+Vehicle/Pedestrian ,All,213,2513,11,2737
+Vehicle/Vehicle ,Fatal,3,25,0,28
+Vehicle/Vehicle ,Serious,62,641,3,706
+Vehicle/Vehicle ,Slight,773,6953,36,7762
+Vehicle/Vehicle ,All,838,7619,39,8496
+Vehicle/Object ,Fatal,3,10,0,13
+Vehicle/Object ,Serious,19,86,1,106
+Vehicle/Object ,Slight,153,544,3,700
+Vehicle/Object ,All,175,640,4,819
+Vehicle/None,Fatal,0,9,0,9
+Vehicle/None,Serious,55,394,1,450
+Vehicle/None,Slight,351,3154,86,3591
+Vehicle/None,All,406,3557,87,4050
+All types ,Fatal,10,96,1,107
+All types ,Serious,183,1643,5,1831
+All types ,Slight,1439,12590,135,14164
+All types ,All,1632,14329,141,16102

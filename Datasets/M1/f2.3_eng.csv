@@ -1,0 +1,25 @@
+"Figure 2.3 Road traffic accidents by type of accident collision, severity and number of casualties 2019",,,,,,,,
+Last updated on 28.10.2020,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+Type of accident collision,Severity,No. of casualties involved: 1,No. of casualties involved: 2,No. of casualties involved: 3,No. of casualties involved: 4,No. of casualties involved: 5,No. of casualties involved: over 5,No. of casualties involved: All
+Vehicle/Pedestrian,Fatal,54,2,0,0,0,1,57
+Vehicle/Pedestrian,Serious,519,38,7,2,0,3,569
+Vehicle/Pedestrian,Slight,2038,69,3,1,0,0,2111
+Vehicle/Pedestrian,All,2611,109,10,3,0,4,2737
+Vehicle/Vehicle,Fatal,14,7,3,0,0,4,28
+Vehicle/Vehicle,Serious,442,148,61,24,7,24,706
+Vehicle/Vehicle,Slight,6092,1173,286,112,45,54,7762
+Vehicle/Vehicle,All,6548,1328,350,136,52,82,8496
+Vehicle/Object,Fatal,9,1,0,0,0,3,13
+Vehicle/Object,Serious,78,18,4,1,2,3,106
+Vehicle/Object,Slight,566,88,28,10,3,5,700
+Vehicle/Object,All,653,107,32,11,5,11,819
+Vehicle/None,Fatal,7,1,1,0,0,0,9
+Vehicle/None,Serious,416,28,3,0,3,0,450
+Vehicle/None,Slight,3452,113,18,5,2,1,3591
+Vehicle/None,All,3875,142,22,5,5,1,4050
+All Types,Fatal,84,11,4,0,0,8,107
+All Types,Serious,1455,232,75,27,12,30,1831
+All Types,Slight,12148,1443,335,128,50,60,14164
+All Types,All,13687,1686,414,155,62,98,16102

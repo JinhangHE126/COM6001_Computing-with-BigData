@@ -1,0 +1,17 @@
+Casualty contributory factor,Degree of injury: Killed,Degree of injury: Seriously injured,Degree of injury: Slightly injured,Degree of injury: All
+Injured by door on bus/PLB,0,1,0,1
+Opened door negligently (passenger),0,0,15,15
+Closing door negligently (driver/passenger),0,0,2,2
+"Passenger lost balance, elsewhere except on stairway",0,21,390,411
+"Passenger lost balance, on stairway",0,10,100,110
+Lost balance/fell down when boarding/alighting vehicle,0,1,43,44
+Other passenger/driver factors,11,101,1331,1443
+Drunk,0,0,5,5
+"Suffering from illness, or mental defect",0,0,5,5
+Crossing road heedless of traffic (at crossing),3,20,92,115
+Crossing road heedless of traffic (elsewhere),10,24,179,213
+"In road, not crossing (jay walking)",2,7,60,69
+Pedestrian inattentiveness,7,36,184,227
+Other pedestrian factors,3,10,78,91
+No casualty factor,60,862,18596,19518
+All,96,1093,21080,22269

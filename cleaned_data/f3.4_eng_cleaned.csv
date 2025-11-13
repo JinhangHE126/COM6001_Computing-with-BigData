@@ -1,0 +1,24 @@
+﻿class_of_vehicle,no_of_accidents,no_of_involvements,no_of_casualties_killed,no_of_casualties_seriously_injured,no_of_casualties_slightly_injured,no_of_casualties_all
+Motor vehicles: Motor cycle,2748,2801,13,270,2746,3029
+Motor vehicles: Private car,8324,11067,14,381,11380,11775
+Motor vehicles: Taxi,4585,5265,23,254,5966,6243
+Motor vehicles: Public light bus,771,791,20,74,1113,1207
+Motor vehicles: Private light bus,89,90,0,6,127,133
+Motor vehicles: Public bus,1993,2054,10,137,2630,2777
+Motor vehicles: Private bus,36,36,1,1,42,44
+Motor vehicles: Light goods vehicle,2912,3248,17,135,3787,3939
+Motor vehicles: Medium goods vehicle,770,810,9,60,1050,1119
+Motor vehicles: Heavy goods vehicle,252,263,4,30,368,402
+Motor vehicles: Tram,37,47,1,2,40,43
+Motor vehicles: Light rail vehicle,4,4,0,1,8,9
+Motor vehicles: Trailer,8,8,1,1,18,20
+Motor vehicles: Village vehicle,5,5,0,0,7,7
+Motor vehicles: Special purpose vehicle,90,94,1,9,108,118
+Motor vehicles: Golf-cart,5,5,0,4,4,8
+Motor vehicles: Others,25,26,0,4,28,32
+Motor vehicles: All,15497,26614,94,1018,19407,20519
+Non-motor vehicles: Bicycle,1980,2129,6,106,1939,2051
+Non-motor vehicles: Handcart,2,2,0,0,2,2
+Non-motor vehicles: All,1982,2131,6,106,1941,2053
+Unknown,61,63,0,3,67,70
+All classes of vehicles,17189,28808,96,1093,21080,22269
